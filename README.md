@@ -20,7 +20,7 @@ I'm a full-stack developer with a long-standing obsession with video games — p
 
 - 🎓 Graduated from **Hacktiv8** Full Stack JavaScript Bootcamp
 - 🏠 Based in **Bandar Lampung, Indonesia** — open to relocate
-- 🎮 Currently playing **Genshin Impact** & **Honkai: Star Rail**
+- 🎮 Currently playing **Genshin Impact**, **Honkai: Star Rail** & **Zenless Zone Zero**
 - 🔭 Next project: **Jingliu Blindfold** — an HSR character wiki
 
 ---
