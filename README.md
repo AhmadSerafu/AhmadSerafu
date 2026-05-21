@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,100:1a3a5c&height=200&section=header&text=Ahmad%20Luthfi%20Hanif&fontSize=35&fontColor=c8a951&animation=fadeIn&desc=Full%20Stack%20Developer&descFontColor=7ec8c8&descSize=18" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+for+the+community;Genshin+Impact+Enjoyer+🌙&center=true&width=500&height=45&color=c8a951&background=00000000">
+</p>
+
+---
+
 <div align="center">
 
 # Hi, I'm Ahmad Luthfi Hanif 👋
@@ -63,6 +72,18 @@ I'm a full-stack developer with a long-standing obsession with video games — p
 | [📱 Strings](https://gc01-p3-string.skirk.my.id) | Mobile social media app | React Native, GraphQL, MongoDB, Redis |
 | [⌨️ HackaType](https://github.com/HCK-94-GP-G1/hackatype-client) | Real-time multiplayer typing race | React, Socket.io, Express, PostgreSQL |
 | [📣 Fesnuk](https://github.com/AhmadSerafu/fesnuk) | Full-featured social media web app | Express, PostgreSQL, EJS |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmadSerafu&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmadSerafu&theme=tokyonight)
+
+</div>
 
 ---
 
