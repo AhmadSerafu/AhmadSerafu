@@ -66,16 +66,6 @@ I'm a full-stack developer with a long-standing obsession with video games — p
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Contribution Graph](https://github-contribution-graph.ez4o.com/?username=AhmadSerafu&theme=github-dark)
-
-</div>
-
----
-
 <div align="center">
 
 *"The most reliable blade is one that has been tempered through countless battles."* — Skirk
