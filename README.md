@@ -80,6 +80,6 @@ I'm a full-stack developer with a long-standing obsession with video games — p
 
 <div align="center">
 
-*"The most reliable blade is one that has been tempered through countless battles."* — Skirk
+*"That is what it means to be a true martial artist: constantly learning and adapting, always testing and overcoming your limits. Otherwise, you will stagnate."* — Skirk
 
 </div>
