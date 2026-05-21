@@ -33,6 +33,7 @@ I'm a full-stack developer with a long-standing obsession with video games — p
 [![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org)
 [![React Native](https://skillicons.dev/icons?i=react)](https://reactnative.dev)
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
