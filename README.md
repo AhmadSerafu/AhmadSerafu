@@ -60,7 +60,7 @@ I'm a full-stack developer with a long-standing obsession with video games — p
 |---------|-------------|------|
 | [🌟 Skirk Portal](https://www.skirk.my.id) | Genshin Impact team builder with AI analyzer | React, Express, PostgreSQL, Gemini AI |
 | [🎌 Kakera!](https://kakera-five.vercel.app) | Anime merchandise e-commerce app | Next.js, TypeScript, MongoDB |
-| [📱 Strings](https://gc01-p3-string.skirk.my.id) | Mobile social media app | React Native, GraphQL, MongoDB, Redis |
+| [📱 Strings](https://github.com/AhmadSerafu/strings) | Mobile social media app | React Native, GraphQL, MongoDB, Redis |
 | [⌨️ HackaType](https://github.com/HCK-94-GP-G1/hackatype-client) | Real-time multiplayer typing race | React, Socket.io, Express, PostgreSQL |
 | [📣 Fesnuk](https://github.com/AhmadSerafu/fesnuk) | Full-featured social media web app | Express, PostgreSQL, EJS |
 
