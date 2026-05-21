@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,100:1a3a5c&height=200&section=header&text=Ahmad%20Luthfi%20Hanif&fontSize=35&fontColor=c8a951&animation=fadeIn&desc=Full%20Stack%20Developer&descFontColor=7ec8c8&descSize=18" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+for+the+community;Genshin+Impact+Enjoyer+🌙&center=true&width=500&height=45&color=c8a951&background=00000000">
-</p>
-
----
-
 <div align="center">
 
 # Hi, I'm Ahmad Luthfi Hanif 👋
