@@ -70,9 +70,9 @@ I'm a full-stack developer with a long-standing obsession with video games — p
 
 <div align="center">
 
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadSerafu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0b72f&icon_color=f0b72f)
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadSerafu&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadSerafu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0b72f)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadSerafu&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
