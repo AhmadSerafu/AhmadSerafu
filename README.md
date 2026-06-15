@@ -6,7 +6,7 @@
 
 *Building web apps by day, exploring Teyvat by night.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahmad-serafu.vercel.app/-gold?style=for-the-badge&logo=firefox&logoColor=white)](https://ahmad-serafu.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-www.skirk.my.id-gold?style=for-the-badge&logo=firefox&logoColor=white)](ahmad-serafu.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Luthfi%20Hanif-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadluthfihanif2412/)
 [![Email](https://img.shields.io/badge/Email-ahluthfiha2412%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahluthfiha24@gmail.com)
 
